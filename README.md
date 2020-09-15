@@ -1,2 +1,4 @@
 # hello-world
+My NAME IS THELMA ZINDOGA.
+IM TRAINING AT MUZINDA HUB. I JUST WANT TO LEARN MORE ABOUT CODING!!!!!
 my first project at github
